@@ -13,6 +13,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36440#MexikoDe-Aarde-en-haar-volken-Jaargang-1865
 gutenberg_issued: '2011-06-15'
 gutenberg_type: Text
 identifiers:
